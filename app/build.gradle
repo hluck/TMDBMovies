@@ -86,4 +86,7 @@ dependencies {
 
     //icons
     implementation libs.material.icons.extended
+
+    //xlog
+    implementation libs.xlog
 }
